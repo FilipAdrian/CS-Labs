@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea9a7b41-ba43-44d2-9cf2-e375de7ee745" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kN7CzkAkYMziukraHIEyNFM86r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adrya\IdeaProjects\CS-Labs\src\test" />
+      <recent name="C:\Users\adrya\IdeaProjects\CS-Labs\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CS-Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Lab_5" />
+      <option name="MAIN_CLASS_NAME" value="Lab_5.Search" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <envs>
+        <env name="-Dtestng.dtd.http" value="true" />
+      </envs>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.YoutubeSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea9a7b41-ba43-44d2-9cf2-e375de7ee745" name="Default Changelist" comment="" />
+      <created>1605529071727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605529071727</updated>
+      <workItem from="1605529078717" duration="1632000" />
+      <workItem from="1605531235239" duration="10039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Project_Structure" timestamp="1605529124712">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1605529124712" />
+    <state x="414" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605542620806">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605542620806" />
+    <state x="740" y="231" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605536121913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="231" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605536121913" />
+    <state x="694" y="288" key="EnvironmentVariablesDialog" timestamp="1605536211609">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="694" y="288" key="EnvironmentVariablesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605536211609" />
+    <state x="1083" y="248" key="FileChooserDialogImpl" timestamp="1605530146981">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1083" y="248" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605530146981" />
+    <state width="1879" height="285" key="GridCell.Tab.0.bottom" timestamp="1605542626690">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605542626690" />
+    <state width="1879" height="285" key="GridCell.Tab.0.center" timestamp="1605542626690">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605542626690" />
+    <state width="1879" height="285" key="GridCell.Tab.0.left" timestamp="1605542626690">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605542626690" />
+    <state width="1879" height="285" key="GridCell.Tab.0.right" timestamp="1605542626690">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605542626690" />
+    <state width="1879" height="352" key="GridCell.Tab.1.bottom" timestamp="1605538732212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605538732212" />
+    <state width="1879" height="352" key="GridCell.Tab.1.center" timestamp="1605538732212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605538732212" />
+    <state width="1879" height="352" key="GridCell.Tab.1.left" timestamp="1605538732212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605538732212" />
+    <state width="1879" height="352" key="GridCell.Tab.1.right" timestamp="1605538732212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605538732212" />
+    <state x="783" y="68" key="SettingsEditor" timestamp="1605533927080">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="783" y="68" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605533927080" />
+    <state x="124" y="221" key="new project wizard" timestamp="1605533876301">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="124" y="221" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1605533876301" />
+  </component>
+</project>
