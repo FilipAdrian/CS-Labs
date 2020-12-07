@@ -1,10 +1,11 @@
-package Lab_6.steps;
+package Lab_7.steps;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.*;
 
 public class Utils {
     public static WebDriver driver;
